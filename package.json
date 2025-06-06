@@ -1,0 +1,13 @@
+{
+  "name": "desafio-soap",
+  "version": "1.0.0",
+  "description": "Desafio SOAP Unilavras",
+  "main": "calculator_sync.js",
+  "scripts": {
+    "sync": "node calculator_sync.js",
+    "async": "node calculator_async.js"
+  },
+  "dependencies": {
+    "soap": "^0.42.0"
+  }
+}
